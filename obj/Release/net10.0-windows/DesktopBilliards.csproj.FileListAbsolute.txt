@@ -1,0 +1,14 @@
+E:\OtherProject\DesktopBilliards\bin\Release\net10.0-windows\DesktopBilliards.exe
+E:\OtherProject\DesktopBilliards\bin\Release\net10.0-windows\DesktopBilliards.deps.json
+E:\OtherProject\DesktopBilliards\bin\Release\net10.0-windows\DesktopBilliards.runtimeconfig.json
+E:\OtherProject\DesktopBilliards\bin\Release\net10.0-windows\DesktopBilliards.dll
+E:\OtherProject\DesktopBilliards\bin\Release\net10.0-windows\DesktopBilliards.pdb
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.GeneratedMSBuildEditorConfig.editorconfig
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.AssemblyInfoInputs.cache
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.AssemblyInfo.cs
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.csproj.CoreCompileInputs.cache
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.dll
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\refint\DesktopBilliards.dll
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.pdb
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\DesktopBilliards.genruntimeconfig.cache
+E:\OtherProject\DesktopBilliards\obj\Release\net10.0-windows\ref\DesktopBilliards.dll
